@@ -1,5 +1,5 @@
 <?php
-$url = 'https://www.vacationstogo.com/myprofile.cfm?id=zz02619009';
+$url = '';
 
 $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);
